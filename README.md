@@ -1,5 +1,8 @@
 ## pandas-challenge
 
+Please be mindful that the jupyter notebook as shown in github does not appear to accurately reflect the output of the code. Please run the code if in any doubt.
+
+
 ## Charter vs District performance. 
 
    I think there is a compelling argument that Charter schools provide a higher academic level of education that district schools. Not only are the top five overall performing schools Chartered, whilst the lowest five are District. When comparing the two types, we can note a four-point difference in Maths scores on average, paired with a 27% difference in overall passing rates. 
